@@ -1,7 +1,7 @@
 # Tableau Worksheets
 
 ## Introduction
-Now that you have learned of the many features of Tableau, it is time to put that knowledge to work and create your first worksheet. To begin this lesson, you should have already downloaded and installed a version of Tableau Public (or Desktop if you chose). You will follow the instructions in this lesson using your version of Tableau to create and publish a basic worksheet.
+Now that you have learned of the many features of Tableau, it is time to put that knowledge to work and create your first worksheet. To begin this lesson, you should have already downloaded and installed a version of Tableau Public (or Desktop if you choose). You will follow the instructions in this lesson using your version of Tableau to create and publish a basic worksheet.
 
 ## Objectives
 You will be able to: 
@@ -15,7 +15,7 @@ You will be able to:
 ## Loading Data
 
 Before you begin this lesson, you will need to download the dataset from the lesson repository. Click on the following link and save it in a location you will be able to find.  
-<a href="link to dataset.something">Superstore.xlsx</a>  
+<a href="https://learn-co-curriculum.github.io/dsc-tableau-worksheets-lab/data/sample_superstore.xls" download>Superstore Excel File</a>  
 > When you installed Tableau, a folder was created in your _Documents_ folder called __'My Tableau Repository'__, this is a good location to save your data for easy access. Also, this data set is avaliable for download directly through Tableau Public, but it is updated frequently, so to ensure you are getting the correct results you should be using the file linked above.
 
 We will begin this lesson by opening your version of Tableau on your desktop. When opening a new notebook, you will see the highlighted text _Connect to Data_ in the __Data__ pane.   
